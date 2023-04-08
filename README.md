@@ -1,3 +1,3 @@
-# odin-recipes
+# odin-recipe
 
-Prepare a recepie using everything learnt on HTML course @ Odin
+Index.html edited to include links and receipes added to their respective pages.
