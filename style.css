@@ -1,4 +1,4 @@
-.con {
+.con.body {
     background-color: #ffe4c4;
     color: black;
 }
@@ -21,12 +21,10 @@ p {
     background-color: lightcyan;
 }
 
-.note {
+
+.con.sept {
     background-color: pink;
 }
 
-#sep {
-    background-color: pink;
-}
 
 
