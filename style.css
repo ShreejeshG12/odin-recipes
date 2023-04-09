@@ -1,0 +1,32 @@
+.con {
+    background-color: #ffe4c4;
+    color: black;
+}
+
+h2,
+h3 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', cursive;
+    font-weight: 300;
+    font-style: italic;
+    color: black;
+}
+
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.tech {
+    color: black;
+    font-style: italic;
+    background-color: lightcyan;
+}
+
+.note {
+    background-color: pink;
+}
+
+#sep {
+    background-color: pink;
+}
+
+
